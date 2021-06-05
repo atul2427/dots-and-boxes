@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "864964430340",
+    "firebase_url": "https://dotsandboxes-c89c8.firebaseio.com",
+    "project_id": "dotsandboxes-c89c8",
+    "storage_bucket": "dotsandboxes-c89c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864964430340:android:dc21edbd5b5fd227984351",
+        "android_client_info": {
+          "package_name": "com.dotsandboxes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864964430340-4pvtitg1k45jvuu9rthobv32e9ommsvh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-vX0KGBgbIeBiKIBIvn4HSjfZBRv2v1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864964430340-4pvtitg1k45jvuu9rthobv32e9ommsvh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

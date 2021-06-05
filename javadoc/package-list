@@ -1,0 +1,13 @@
+com.dotsandboxes
+com.dotsandboxes.activities
+com.dotsandboxes.database
+com.dotsandboxes.event_bus
+com.dotsandboxes.event_bus.events
+com.dotsandboxes.fragments
+com.dotsandboxes.game.controllers
+com.dotsandboxes.game.models
+com.dotsandboxes.imagepicker
+com.dotsandboxes.services
+com.dotsandboxes.utils
+com.dotsandboxes.views
+com.google.example.games.basegameutils
